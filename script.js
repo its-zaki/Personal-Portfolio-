@@ -28,7 +28,7 @@ function closeMenu() {
 
 
 var typed = new Typed(".profession", {
-  strings: ["frontend Developer", "Web Developer"],
+  strings: ["Frontend Developer", "Web Developer", "MERN Stack Developer"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
